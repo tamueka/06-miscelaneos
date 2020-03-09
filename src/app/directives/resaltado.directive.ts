@@ -34,6 +34,6 @@ export class ResaltadoDirective {
 
     this.el.nativeElement.style.backgroundColor = color;
 
-   }
+   }l
 
 }
